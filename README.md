@@ -1,5 +1,7 @@
 # 🛡️ Net Analyzer Pro (Security Edition)
 
+[![GitHub](https://img.shields.io/badge/View_Main_Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/psbdx-pvt-ltd/network-analyzer)
+
 ![Version](https://img.shields.io/badge/version-3.2.1-blue?style=for-the-badge)
 ![Format](https://img.shields.io/badge/Format-Raw%20.py%20Script-yellow?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Built%20On-Linux-orange?style=for-the-badge)
@@ -25,11 +27,11 @@
 
 ## 🐧 Why Linux Only?
 
-This tool was built and optimized on **Zorin OS/Linux**.
+This tool was built and optimized on **Chrome OS Flex (Linux)**.
 Network security requires "Low-Level" access to hardware interfaces (Raw Sockets). Linux allows this control, whereas Windows and macOS often block these actions for security reasons.
 
 **Compatibility:**
-* ✅ **Native:** Chrome OS, Chromebooks (Crostini), Ubuntu, Kali Linux, Windows (WSL), Zorin OS.
+* ✅ **Native:** Chrome OS Flex, Chromebooks (Crostini), Ubuntu, Kali Linux.
 * ❌ **Windows/Mac:** Not supported (requires Raw Socket access).
 
 ---
